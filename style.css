@@ -1,0 +1,12 @@
+.winner{
+  color: green;
+}
+
+.gold{
+  background: gold;
+}
+
+.off{
+  opacity: 0.4;
+  text-decoration: line-through;
+}
