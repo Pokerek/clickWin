@@ -1,0 +1,3 @@
+# clickWin
+
+Stupid click game
